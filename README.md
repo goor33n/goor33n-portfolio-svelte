@@ -2,7 +2,7 @@
 
 Svelte 테스트 겸 소개 사이트입니다.
 
-[gooreen.dev](https://gooreen.dev/)에서 배포중.
+[svelte.gooreen.dev](https://svelte.gooreen.dev/)에서 배포중.
 
 <!-- This template should help get you started developing with Svelte in Vite.
 
